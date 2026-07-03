@@ -1,0 +1,1 @@
+This repository only contains the data processed for the experiments. The original dataset is available at https://pureportal.strath.ac.uk/en/datasets/refit-electrical-load-measurements-cleaned/, and the corresponding paper is available at http://dx.doi.org/10.1038/sdata.2016.122.
